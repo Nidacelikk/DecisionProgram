@@ -56,3 +56,4 @@ Bu uygulama, insanların günlük hayatta yaşadıkları kararsızlıklardan kur
 Uygulama, basit web teknolojileriyle geliştirilmiştir ve sunucu tarafı desteği içermez.
 
 ---
+[README.txt](https://github.com/user-attachments/files/20150886/README.txt)
